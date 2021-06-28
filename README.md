@@ -1,6 +1,6 @@
 # health_plant
 
-A new Flutter project.
+My Submission for Belajar Flutter untuk Pemula in Dicoding
 
 ## Getting Started
 
